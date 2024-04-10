@@ -23,7 +23,6 @@ string year = dateParts[0];
 string month = dateParts[1];
 string day = dateParts[2];
 
-// Formatando a data
 string formattedDate = $"{day}/{month}/{year}";
 
 string strCmdFixDate = $"date {formattedDate}";
