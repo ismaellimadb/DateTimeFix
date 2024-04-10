@@ -1,0 +1,14 @@
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\DateTimeFix\DateTimeFix\bin\Debug\net8.0\DateTimeFix.exe
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\DateTimeFix\DateTimeFix\bin\Debug\net8.0\DateTimeFix.deps.json
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\DateTimeFix\DateTimeFix\bin\Debug\net8.0\DateTimeFix.runtimeconfig.json
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\DateTimeFix\DateTimeFix\bin\Debug\net8.0\DateTimeFix.dll
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\DateTimeFix\DateTimeFix\bin\Debug\net8.0\DateTimeFix.pdb
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\DateTimeFix\DateTimeFix\obj\Debug\net8.0\DateTimeFix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\DateTimeFix\DateTimeFix\obj\Debug\net8.0\DateTimeFix.AssemblyInfoInputs.cache
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\DateTimeFix\DateTimeFix\obj\Debug\net8.0\DateTimeFix.AssemblyInfo.cs
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\DateTimeFix\DateTimeFix\obj\Debug\net8.0\DateTimeFix.csproj.CoreCompileInputs.cache
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\DateTimeFix\DateTimeFix\obj\Debug\net8.0\DateTimeFix.dll
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\DateTimeFix\DateTimeFix\obj\Debug\net8.0\refint\DateTimeFix.dll
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\DateTimeFix\DateTimeFix\obj\Debug\net8.0\DateTimeFix.pdb
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\DateTimeFix\DateTimeFix\obj\Debug\net8.0\DateTimeFix.genruntimeconfig.cache
+C:\Users\imlbl\OneDrive\Desktop\GitRepos\DateTimeFix\DateTimeFix\obj\Debug\net8.0\ref\DateTimeFix.dll
